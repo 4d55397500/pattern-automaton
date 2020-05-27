@@ -9,8 +9,7 @@ are increments until a match is found, or it's ‘back to the beginning’ aka o
 
 ### Run
 
-Run the main program. There are 'contiguous' and 'non-contiguous' automatons implemented. Some sample runs:
-
+Run the main program. There are 'contiguous' and 'non-contiguous' automatons implemented. A sample run:
 ```
 ('q': quit) please select an automaton type: '1' for contiguous or '2' non-contiguous
 2
